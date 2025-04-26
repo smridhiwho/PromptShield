@@ -1,0 +1,27 @@
+
+---
+
+### `.gitignore`
+
+```plaintext
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+
+# Environment Variables
+.env
+
+# Streamlit
+.streamlit/
+
+# SQLite Database
+*.db
+*.sqlite3
+
+# Logs
+*.log
